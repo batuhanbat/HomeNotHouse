@@ -15,3 +15,11 @@ http://95.174.71.114/TR-SHOW/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="NUYO",SHOW TV(YEDEK 2)
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QvTPfhs/now.png" group-title="NUYO",NOW TV
+http://116.202.238.88/FOXTV_TR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QvTPfhs/now.png" group-title="NUYO",NOW TV(YEDEK 1)
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QvTPfhs/now.png" group-title="NUYO",NOW TV(YEDEK 2)
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
