@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/batuhanbat/HomeNotHouse/dev/empty.xml"
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="NUYO",TV 8(FULL HD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png",TV 8(FULL HD)
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
+
