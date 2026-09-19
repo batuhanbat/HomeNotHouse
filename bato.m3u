@@ -106,10 +106,24 @@ https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukssplus10/playlist.m3u8
 
 #EXTINF:-1,TRT Spor
 #EXTVLCOPT:http-user-agent=1
-https://ladyboy.yedektv.cfd//trt-spor/tracks-v1a1/mono.m3u8
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,TRT Spor Yıldız
+#EXTVLCOPT:http-user-agent=1
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,FB TV
+#EXTVLCOPT:http-user-agent=1
+https://1hskrdto.rocketcdn.com/fenerbahcetv.stream/chunklist.m3u8
 
 #EXTINF:-1,A Spor
 #EXTVLCOPT:http-user-agent=1
-https://ladyboy.yedektv.cfd//aspor/tracks-v1a1/mono.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 
+#EXTINF:-1,Ekol Sports Tv
+#EXTVLCOPT:http-user-agent=1
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 
+#EXTINF:-1,HT Sport
+#EXTVLCOPT:http-user-agent=1
+https://ciner-live.ercdn.net/htspor/htspor.m3u8
