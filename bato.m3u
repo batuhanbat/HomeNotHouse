@@ -24,11 +24,32 @@ https://ladyboy.yedektv.cfd//bein4/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=1
 https://ladyboy.yedektv.cfd//bein5/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Bein Sports 1 Selcuk Sports
+#EXTINF:-1,Bein Sports Max 1
 #EXTVLCOPT:http-user-agent=1
-https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukobs1/playlist.m3u8
+https://ladyboy.yedektv.cfd//beinmax1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Tivibu Spor1
+#EXTINF:-1,Bein Sports Max 2
+#EXTVLCOPT:http-user-agent=1
+https://ladyboy.yedektv.cfd//beinmax2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Tivibu Spor 1
 #EXTVLCOPT:http-user-agent=1
 https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktivibuspor1/playlist.m3u8
+
+#EXTINF:-1,S Sport
+#EXTVLCOPT:http-user-agent=1
+https://ladyboy.yedektv.cfd//s-sport/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,S Sport 2
+#EXTVLCOPT:http-user-agent=1
+https://ladyboy.yedektv.cfd//s-sport2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,TRT Spor
+#EXTVLCOPT:http-user-agent=1
+https://ladyboy.yedektv.cfd//trt-spor/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,A Spor
+#EXTVLCOPT:http-user-agent=1
+https://ladyboy.yedektv.cfd//aspor/tracks-v1a1/mono.m3u8
+
 
