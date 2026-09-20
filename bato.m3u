@@ -8,31 +8,24 @@
 https://ladyboy.yedektv.cfd//beintv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-2-mea.png" group-title="Bein",Bein Sports 2
-#EXTVLCOPT:http-user-agent=1
 https://ladyboy.yedektv.cfd//bein2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-3-mea.png" group-title="Bein",Bein Sports 3
-#EXTVLCOPT:http-user-agent=1
 https://ladyboy.yedektv.cfd//bein3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-4-mea.png" group-title="Bein",Bein Sports 4
-#EXTVLCOPT:http-user-agent=1
 https://ladyboy.yedektv.cfd//bein4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-5-mea.png" group-title="Bein",Bein Sports 5
-#EXTVLCOPT:http-user-agent=1
 https://ladyboy.yedektv.cfd//bein5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-1-max-mea.png" group-title="Bein",Bein Sports Max 1
-#EXTVLCOPT:http-user-agent=1
 https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukbeinsportsmax1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-2-max-mea.png" group-title="Bein",Bein Sports Max 2
-#EXTVLCOPT:http-user-agent=1
 https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukbeinsportsmax2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-sports-haber-tr.png" group-title="Bein",Bein Sports Haber
-#EXTVLCOPT:http-user-agent=1
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6939/index.m3u8
 
 # ------------------------------------------------------------------------------------------
@@ -59,51 +52,39 @@ https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktivibuspor4/playlist.m3u
 # S Sport
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/s-sport-tr.png" group-title="S Sport",S Sport
-#EXTVLCOPT:http-user-agent=1
 https://ladyboy.yedektv.cfd//s-sport/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/s-sport-2-tr.png" group-title="S Sport",S Sport 2
-#EXTVLCOPT:http-user-agent=1
 https://ladyboy.yedektv.cfd//s-sport2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/s-sport-plus-tr.png" group-title="S Sport",S Sport Plus 1
-#EXTVLCOPT:http-user-agent=1
 https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukssplus1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/s-sport-plus-tr.png" group-title="S Sport",S Sport Plus 2
-#EXTVLCOPT:http-user-agent=1
 https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukssplus2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/s-sport-plus-tr.png" group-title="S Sport",S Sport Plus 3
-#EXTVLCOPT:http-user-agent=1
 https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukssplus3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/s-sport-plus-tr.png" group-title="S Sport",S Sport Plus 4
-#EXTVLCOPT:http-user-agent=1
 https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukssplus4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/s-sport-plus-tr.png" group-title="S Sport",S Sport Plus 5
-#EXTVLCOPT:http-user-agent=1
 https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukssplus5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/s-sport-plus-tr.png" group-title="S Sport",S Sport Plus 6
-#EXTVLCOPT:http-user-agent=1
 https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukssplus6/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/s-sport-plus-tr.png" group-title="S Sport",S Sport Plus 7
-#EXTVLCOPT:http-user-agent=1
 https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukssplus7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/s-sport-plus-tr.png" group-title="S Sport",S Sport Plus 8
-#EXTVLCOPT:http-user-agent=1
 https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukssplus8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/s-sport-plus-tr.png" group-title="S Sport",S Sport Plus 9
-#EXTVLCOPT:http-user-agent=1
 https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukssplus9/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/s-sport-plus-tr.png" group-title="S Sport",S Sport Plus 10
-#EXTVLCOPT:http-user-agent=1
 https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukssplus10/playlist.m3u8
 
 # ------------------------------------------------------------------------------------------
@@ -111,33 +92,25 @@ https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukssplus10/playlist.m3u8
 # Ulusal
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv8-tr.png" group-title="Ulusal",TV 8
-#EXTVLCOPT:http-user-agent=1
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="Ulusal",TRT Spor
-#EXTVLCOPT:http-user-agent=1
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-yildiz-tr.png" group-title="Ulusal",TRT Spor Yıldız
-#EXTVLCOPT:http-user-agent=1
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/fenerbahce-tv-tr.png" group-title="Ulusal",FB TV
-#EXTVLCOPT:http-user-agent=1
 https://1hskrdto.rocketcdn.com/fenerbahcetv.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" group-title="Ulusal",A Spor
-#EXTVLCOPT:http-user-agent=1
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="Ulusal",HT Sport
-#EXTVLCOPT:http-user-agent=1
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j786OLG.png" group-title="Ulusal",TRT 1
-#EXTVLCOPT:http-user-agent=1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xM0HA30.png" group-title="Ulusal",Halk TV
-#EXTVLCOPT:http-user-agent=1
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
