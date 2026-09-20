@@ -124,7 +124,7 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
 #EXTVLCOPT:http-user-agent=1
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="Ulusal",TRT Spor Yıldız
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-yildiz-tr.png" group-title="Ulusal",TRT Spor Yıldız
 #EXTVLCOPT:http-user-agent=1
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 
