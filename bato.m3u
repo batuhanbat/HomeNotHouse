@@ -4,26 +4,62 @@
 
 # Bein
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-1-mea.png" group-title="Bein",Bein Sports 1 Full HD
+http://livenew.3utilities.com:23000/live/A0114H/7qhprfe7QZ/52327.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-1-mea.png" group-title="Bein",Bein Sports 1 HD
+http://livenew.3utilities.com:23000/live/A0114H/7qhprfe7QZ/52334.ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-1-mea.png" group-title="Bein",Bein Sports 1
 https://ladyboy.yedektv.cfd//beintv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-2-mea.png" group-title="Bein",Bein Sports 2 Full HD
+http://livenew.3utilities.com:23000/live/A0114H/7qhprfe7QZ/52328.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-2-mea.png" group-title="Bein",Bein Sports 2 HD
+http://livenew.3utilities.com:23000/live/A0114H/7qhprfe7QZ/52335.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-2-mea.png" group-title="Bein",Bein Sports 2
 https://ladyboy.yedektv.cfd//bein2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-3-mea.png" group-title="Bein",Bein Sports 3 Full HD
+http://livenew.3utilities.com:23000/live/A0114H/7qhprfe7QZ/52329.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-3-mea.png" group-title="Bein",Bein Sports 3 HD
+http://livenew.3utilities.com:23000/live/A0114H/7qhprfe7QZ/52336.ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-3-mea.png" group-title="Bein",Bein Sports 3
 https://ladyboy.yedektv.cfd//bein3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-4-mea.png" group-title="Bein",Bein Sports 4 Full HD
+http://livenew.3utilities.com:23000/live/A0114H/7qhprfe7QZ/52330.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-4-mea.png" group-title="Bein",Bein Sports 4 HD
+http://livenew.3utilities.com:23000/live/A0114H/7qhprfe7QZ/52337.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-4-mea.png" group-title="Bein",Bein Sports 4
 https://ladyboy.yedektv.cfd//bein4/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-5-mea.png" group-title="Bein",Bein Sports 5 Full HD
+http://livenew.3utilities.com:23000/live/A0114H/7qhprfe7QZ/52324.ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-5-mea.png" group-title="Bein",Bein Sports 5
 https://ladyboy.yedektv.cfd//bein5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-1-max-mea.png" group-title="Bein",Bein Sports Max 1 HD
+http://livenew.3utilities.com:23000/live/A0114H/7qhprfe7QZ/52332.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-1-max-mea.png" group-title="Bein",Bein Sports Max 1
 https://ladyboy.yedektv.cfd//beinmax1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-2-max-mea.png" group-title="Bein",Bein Sports Max 2 HD
+http://livenew.3utilities.com:23000/live/A0114H/7qhprfe7QZ/52333.ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-2-max-mea.png" group-title="Bein",Bein Sports Max 2
 https://ladyboy.yedektv.cfd//beinmax2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-sports-haber-tr.png" group-title="Bein",Bein Sports Haber Full HD
+http://livenew.3utilities.com:23000/live/A0114H/7qhprfe7QZ/52331.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-sports-haber-tr.png" group-title="Bein",Bein Sports Haber
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6939/index.m3u8
