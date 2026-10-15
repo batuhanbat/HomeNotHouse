@@ -87,3 +87,6 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xM0HA30.png" group-title="Ulusal",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s7aygkq." group-title="Ulusal",Sözcü TV
+https://5gemreozbkn.tcecz5g.xyz:443/play/mrOMXdUivc3RD4zw39faL2XSER2QshU2IebWd0WRqGZY3R6z8wGBNFjYNW7wXbC-/m3u8
