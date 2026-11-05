@@ -52,16 +52,6 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=15569&ext
 
 # ------------------------------------------------------------------------------------------
 
-# S Sport
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/s-sport-tr.png" group-title="S Sport",S Sport
-https://ladyboy.yedektv.cfd//s-sport/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/s-sport-2-tr.png" group-title="S Sport",S Sport 2
-https://ladyboy.yedektv.cfd//s-sport2/tracks-v1a1/mono.m3u8
-
-# ------------------------------------------------------------------------------------------
-
 # Ulusal
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv8-tr.png" group-title="Ulusal",TV 8
@@ -83,7 +73,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j786OLG.png" group-title="Ulusal",TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+https://css.d6e3eds5e065t5.help//hls/arda.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xM0HA30.png" group-title="Ulusal",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
